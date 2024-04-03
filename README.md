@@ -1,2 +1,2 @@
 # SampleDemo
-Sales , Customers and products  Project
+Internet Sales , Customers and products  Project
